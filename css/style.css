@@ -1,0 +1,22 @@
+.collection-header h4 {
+    color: blue; 
+  }
+
+  li.collection-item.avatar {
+    display: flex;
+  }
+  
+  .avatar-container {
+    display: flex;
+    align-items: center;
+  }
+
+  .text-container {
+    flex-grow: 1;
+  }
+
+
+  .custom-list-item {
+    color: red; 
+  }
+
